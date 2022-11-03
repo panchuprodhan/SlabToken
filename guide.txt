@@ -1,0 +1,16 @@
+# Usage:
+
+-> To add tokens to the contract, use the addToken function, specifying the amount of token in the respective field.
+-> To view the balance of the contract, use the "balance" function.
+-> To view how many tokens are stored in the slab, click on the "slab4", which goes on as a descending order.
+-> FOr viewing the current slab, click on the "viewSlab" functionality.
+
+# Features:
+
+-> Balance, to check the total amount of tokens in the contract.
+-> Slab4, cap of 500 * 10 ** 18 tokens.
+-> Slab3, cap of 400 * 10 ** 18 tokens.
+-> Slab2, cap of 300 * 10 ** 18 tokens.
+-> Slab1, cap of 200 * 10 ** 18 tokens.
+-> Slab0, cap of 100 * 10 ** 18 tokens.
+-> ViewSlab, to view the active slab.
