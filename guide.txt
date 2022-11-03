@@ -4,6 +4,7 @@
 -> To view the balance of the contract, use the "balance" function.
 -> To view how many tokens are stored in the slab, click on the "slab4", which goes on as a descending order.
 -> FOr viewing the current slab, click on the "viewSlab" functionality.
+-> For using test case, copy the tests/SlabCollector_test.sol to remix and enable the Solidity Unit Testing extension. Click on run.
 
 # Features:
 
