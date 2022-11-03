@@ -16,4 +16,4 @@
 -> ViewSlab, to view the active slab.
 
 ## Goerli contract address:
-0x44c147E0126B9f72da68b42061fbB40Dc07645e6
+0xE73692285D7c8c18105b1c306d4748a9166472Ab
