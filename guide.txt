@@ -14,3 +14,6 @@
 -> Slab1, cap of 200 * 10 ** 18 tokens.
 -> Slab0, cap of 100 * 10 ** 18 tokens.
 -> ViewSlab, to view the active slab.
+
+## Goerli contract address:
+0x44c147E0126B9f72da68b42061fbB40Dc07645e6
