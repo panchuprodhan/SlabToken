@@ -1,0 +1,9 @@
+-> Add token using the addToken function.
+-> Add it to the balance field.
+-> Check whether balance is < 500 *10 **18. IF true, add it to the slab4.
+-> Check whether balance is > 500 *10 **18 and < 900 *10 **18. IF true, add it to the slab3.
+-> Check whether balance is > 900 *10 **18 and < 1200 *10 **18. IF true, add it to the slab2.
+-> Check whether balance is > 1200 *10 **18 and < 1400 *10 **18. IF true, add it to the slab1.
+-> Check whether balance is > 1400 *10 **18 and < 1500 *10 **18. IF true, add it to the slab0.
+-> It cannot accept value > 1500 *10 **18.
+-> To check the slab in use, use the viewSlab function.
